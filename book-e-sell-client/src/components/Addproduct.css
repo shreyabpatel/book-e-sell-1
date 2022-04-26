@@ -1,0 +1,125 @@
+
+.Editproduct{
+    margin-top: 10px;
+    width: max-content;
+    margin-left: 50px;
+    
+ }
+ .Editproduct h1{
+    
+     text-align: center;
+     margin-left: 220px;
+     margin-top: 1px;
+ }
+ .Editproduct hr{
+     width: 92%;
+     margin-top: 5px;
+     margin-left: 175px;
+ }
+ .editinformation{
+     /* text-align: center; */
+     width: 90%;
+     padding-bottom: 10px;
+     margin: 0 -15px;
+     display: flex;
+     /* flex-wrap: wrap; */
+     margin-left: 15%;
+ }
+ .edit{
+     margin-right: 1px;
+     /* margin-left: 50px; */
+     width:200%;
+     position: relative;
+     padding-right: 300px;
+     /* padding-left: 24px; */
+     
+ }
+ /* .edit p, .edit1 p{
+     font-size: 20px;
+     color: black;
+ } */
+ .edit select{
+     width: 210%;
+     /* margin-top: 1px; */
+     /* margin: 5px 0 22px 0; */
+     height: 60px;
+     padding-left: 5px;
+     margin-right: 50px;
+     border: 1px solid darkblue;
+     border-radius: 5px;
+     background: white;
+ }
+ .edit input[type=text]{
+     width: 210%;
+     padding: 15px;
+     margin: 5px 0 22px 0;
+     display: inline-block;
+     border: 1px solid darkblue;
+     border-radius: 5px;
+     background: white;
+ }
+ /* .edit1 input[type=text] {
+     width: 100%;
+     padding: 15px;
+     margin: 5px 0 22px 0;
+     display: inline-block;
+     border: 1px solid #ccc;
+     background: white;
+ } */
+ .edit input[type=file]{
+     width: 65%;
+     padding: 15px;
+     margin: 5px 0 22px 0;
+     display: inline-block;
+     border: 1px solid darkblue;
+     background: white;
+     border-radius: 5px;
+ }
+ .editbttn{
+     display: flex;
+ }
+ .savebtn{
+     color: white;
+     height: 45px;
+     background-color: darkblue;
+     width: 220px;
+     border-radius: 5px;
+     margin-left: 0px;
+     margin-right: 50px;
+ }
+ .cancelbtn{
+     color: white;
+     background-color: darkblue;
+     margin-left: 0px;
+     width: 220px;
+     border-radius: 5px;
+     height: 45px;
+ }
+ /* .table-pagination{
+     margin-right: 150px;
+     font-size: 20px;
+ }
+ .table-pagination select{
+     margin-left: 10px;
+     height: 40px;
+     text-align-last: center;
+     padding-left: 5px;
+     margin-right: 10px;
+ }
+ .prvbtn{
+     margin-right: 5px;
+     margin-left: 5px;
+     background-color: aliceblue;
+     color: black;
+ }
+ .prvbtn:hover, .nextbtn:hover{
+     background-color: red;
+     color: white;
+ }
+ .nextbtn{
+     background-color: aliceblue;
+     color: black;
+ }
+ .inputlabels{
+     font-size: 18px;
+ } */

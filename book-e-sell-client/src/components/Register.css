@@ -1,0 +1,70 @@
+.register-container{
+    height: 900px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+.personalinformation{
+    margin: 0 -15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.infotext{
+    position: relative;
+    padding-right: 200px;
+    padding-left: 14px;
+    width: 47%;
+}
+.infotext1 input[type=text] {
+    width: 90%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    background: rgb(245, 239, 231); 
+}
+.personalinformation input[type=password]{
+    width: 150%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    background: rgb(245, 239, 231); 
+}
+.personalinformation input[type=text]{
+    width: 150%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    background: rgb(245, 239, 231); 
+}
+.personalinformation p, .infotext1 p{
+    font-size: 20px;
+    color: black;
+}
+.registerbtn1{
+    background-color: darkblue;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    /* padding: 16px 20px; */
+    font-size: 20px;
+    /* margin: 8px 0; */
+    margin-top: 30px;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    height: 45px;
+    opacity: 0.9;
+}
+.hrline{
+    width:90%;
+    color: palevioletred;
+    
+}
